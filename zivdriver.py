@@ -1,6 +1,6 @@
 from rose.common import obstacles, actions
 
-driver_name = "Ziv Magnezi"
+driver_name = "Ziv"
 
 def noChoiceBeCareful(frontNextObstacle, sideAction):
     if frontNextObstacle == obstacles.TRASH or frontNextObstacle == obstacles.BIKE or frontNextObstacle == obstacles.BARRIER: 
